@@ -1,7 +1,7 @@
 # Hi, I'm Zach 👋
 I'm passionate about AI, machine learning, and data science. I thrive on learning and sharing new technologies and am always seeking innovative ways to make an impact with them.
 
-Below are some of my recent technical project highlights. As background context, I'm a technical marketer for Neo4j (since Aug 2021), specializing in GenAI/RAG integration as well as graph data science and machine learning. As such, my technical projects are a mix of workflows geared towards GenAI/RAG app development (sample apps for Q&A, search, recommendations, etc.) and DS/ML (analytics, building models, etc.). I am very flexible about (and enjoy) working both ends of this spectrum!
+Below are some of my recent technical project highlights. As background context, I'm a technical marketer for Neo4j (since Aug 2021), specializing in GenAI/RAG integration as well as graph data science and machine learning. As such, my technical projects are a mix of workflows geared towards GenAI/RAG app development (sample apps for Q&A, search, recommendations, etc.) and DS/ML (analytics, building models, etc.). I am very flexible about, and enjoy, working both ends of this spectrum!
 
 ## Technical Project Highlights
 
